@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Galway Tour App</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <string name="nav_dining">Dining</string>
+    <string name="nav_hotel">Accommodations</string>
+    <string name="nav_see">Sites</string>
+    <string name="nav_events">Events</string>
+
+    Dining
+    <string name="aniar">Aniar Restaurant</string>
+    <string name="aniarAdd">53 Lower Dominick Street, Galway, Ireland</string>
+    <string name="aniarPh">+353 91 535 947</string>
+
+    <string name="pullman">Pullman Restaurant</string>
+    <string name="pullmanAdd">Bushypark, Galway City, Co. Galway, Ireland</string>
+    <string name="pullmanPh">+353 91 519 601</string>
+
+    <string name="kirwans">The Seafood Bar at Kirwan\'s</string>
+    <string name="kirwansAdd">3 Kirwan\'s Ln, Galway, H91 N8H4, Ireland</string>
+    <string name="kirwansPh">+353 91 568 266</string>
+
+    <string name="italian">Italian Restaurant Galway - VENICE</string>
+    <string name="italianAdd">11 Abbeygate Street Lower, Galway, H91 W5YA, Ireland</string>
+    <string name="italianPh">+353 91 530 751</string>
+
+    <string name="western">The Western Restaurant</string>
+    <string name="westernAdd">35 Prospect Hill, Galway, H91 H512, Ireland</string>
+    <string name="westernPh">+353 85 238 2396</string>
+
+    <string name="nimmos">Ard Bia at Nimmos</string>
+    <string name="nimmosAdd">Spanish Arch, Long Walk, Galway, H91 E9XA, Ireland</string>
+    <string name="nimmosPh">+353 91 561 114</string>
+
+    <string name="dock">Dock 1 Seafood Bar &amp; Restaurant</string>
+    <string name="dockAdd">1 Dock Rd, The Docks, Galway, Ireland</string>
+    <string name="dockPh">+353 91 562 872</string>
+
+    <string name="corner">Brasserie On The Corner</string>
+    <string name="cornerAdd">25 Eglinton St, Galway, H91 CY1F, Ireland</string>
+    <string name="cornerPh">+353 91 530 333</string>
+
+    <string name="lock">John Keogh\'s - The Lock Keeper</string>
+    <string name="lockAdd">24, 22 upper dominick street, galway, Ireland</string>
+    <string name="lockPh">+353 91 449 431</string>
+
+Accommodations
+
+    <string name="clayton">Clayton Hotel Galway</string>
+    <string name="claytonAdd">Monivea Road, Ballybrit, Galway, H91 D526, Ireland</string>
+    <string name="claytonPh">+353 91 721 900</string>
+
+    <string name="galwaybay">Galway Bay Hotel</string>
+    <string name="galwaybayAdd">Salthill Rd Lower, Upper Salthill, Galway, H91 W295, Ireland</string>
+    <string name="galwaybayPh">+353 91 514 644</string>
+
+    <string name="connacht">The Connacht Hotel</string>
+    <string name="connachtAdd">Old Dublin Rd, Galway, H91 K5DD, Ireland</string>
+    <string name="connachtPh">+353 91 381 200</string>
+
+    <string name="flannerys">Flannery\'s Hotel Galway</string>
+    <string name="flannerysAdd">Old Dublin Rd, Galway City East, Co. Galway, Ireland</string>
+    <string name="flannerysPh">+353 91 755 111</string>
+
+    <string name="salthill">Salthill Hotel</string>
+    <string name="salthillAdd">The Promenade Salthill, Galway, H91 DD4V, Ireland</string>
+    <string name="salthillPh">+353 91 522 711</string>
+
+    <string name="menlo">Menlo Park Hotel</string>
+    <string name="menloAdd">Headford Rd, Galway, Ireland</string>
+    <string name="menloPh">+353 91 761 122</string>
+
+    <string name="galmont">The Galmont Hotel &amp; Spa</string>
+    <string name="galmontAdd">Lough Atalia Rd, Galway, H91 CYN3, Ireland</string>
+    <string name="galmontPh">+353 91 538 300</string>
+
+    <string name="ardilaun">The Ardilaun Hotel</string>
+    <string name="ardilaunAdd">Taylors Hill, Galway, Ireland</string>
+    <string name="ardilaunPh">+353 91 521 433</string>
+
+    <string name="park">Park House Hotel</string>
+    <string name="parkAdd">17 Forster Street, Eyre Square, Galway, Ireland</string>
+    <string name="parkPh">+353 91 564 924</string>
+
+    Sites
+
+    <string name="turoe">Turoe Pet Farm and Leisure Park</string>
+    <string name="turoeAdd">Bullaun,Loughrea,Co.Galway,Ireland</string>
+    <string name="turoePh">+353 091 841 580</string>
+
+    <string name="rinville">Rinville Park</string>
+    <string name="rinvilleAdd">Marshallspark, Co. Galway, Ireland</string>
+    <string name="rinvillePh">+353 91  509 310</string>
+
+    <string name="portumna">Portumna Castle and Gardens</string>
+    <string name="portumnaAdd">Portumna,Co. Galway, H53 YK27, Ireland</string>
+    <string name="portumnaPh">+353 (90) 974 1658</string>
+
+    <string name="spiddal">An Ceardlann - Spiddal Craft and Design Studios</string>
+    <string name="spiddalAdd">Spiddal,Co Galway,Ireland</string>
+    <string name="spiddalPh">+353 91 553376</string>
+
+    <string name="connemara">Connemara Heritage Centre</string>
+    <string name="connemaraAdd">Lettershea,Clifden,Connemara,County Galway,Ireland</string>
+    <string name="connemaraPh">+353 95 21808</string>
+
+    <string name="kylemore">Kylemore Abbey and Victorian Walled Garden</string>
+    <string name="kylemoreAdd">Kylemore, Connemara, Co.Galway, Ireland</string>
+    <string name="kylemorePh">+353 95 52001</string>
+
+    <string name="kiltartan">The Kiltartan Gregory Museum and Millennium Park</string>
+    <string name="kiltartanAdd">Kiltartan Cross, Gort, Co. Galway, Ireland</string>
+    <string name="kiltartanPh">+091 - 632346</string>
+
+    <string name="athenry">Athenry Castle</string>
+    <string name="athenryAdd">Athenry,Co. Galway.,Ireland</string>
+    <string name="athenryPh">+353 (91) 844 797</string>
+
+    <string name="faller">Faller, Stephen Ltd</string>
+    <string name="fallerAdd">Williamsgate Street Galway, Ireland</string>
+    <string name="fallerPh">+353 (0) 91 56 1226</string>
+
+    Events
+    <string name= "garden">9th Galway Garden Festival</string>
+    <string name= "gardenAdd">Claregalway Castle,Ireland</string>
+    <string name= "gardenPh">July 7th &amp; 8th 2018</string>
+
+    <string name= "traidphicnic">Traidphicnic</string>
+    <string name="traidphicnicAdd">Spiddal, Co. Galway,Ireland</string>
+    <string name= "traidphicnicPh">6 July - 8 July 2018</string>
+
+    <string name= "roundstone">Roundstone Connemara Pony, Dog &amp; Sheep Show</string>
+    <string name= "roundstoneAdd">Farrell’s Field, Roundstone, Co. Galway ,Ireland</string>
+    <string name= "roundstonePh">July 8th 2018</string>
+
+    <string name= "westside">Westside Arts Festival</string>
+    <string name="westsideAdd">Seamus Quirke Rd, Galway, Ireland</string>
+    <string name= "westsidePh">10 July - 14 July 2018</string>
+
+    <string name= "fringe">Galway Fringe Festival</string>
+    <string name="fringeAdd">6-8 Middle St, Galway, H91 ND98, Ireland</string>
+    <string name= "fringePh">15 July - 30 July 2018</string>
+</resources>
