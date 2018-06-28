@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
             case R.id.nav_send:
                 Intent email = new Intent(Intent.ACTION_SEND);
-                email.putExtra(Intent.EXTRA_EMAIL, new String[]{"abc@gmail.com"});
-                email.putExtra(Intent.EXTRA_SUBJECT, "Sunject Text Here..");
+                email.putExtra(Intent.EXTRA_EMAIL, new String[]{" "});
+                email.putExtra(Intent.EXTRA_SUBJECT, "Subject Text Here..");
                 email.putExtra(Intent.EXTRA_TEXT, "");
                 email.setType("message/rfc822");
                 startActivity(Intent.createChooser(email, "Send Mail Using :"));
