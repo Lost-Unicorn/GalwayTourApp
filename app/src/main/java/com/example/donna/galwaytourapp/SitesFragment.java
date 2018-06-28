@@ -9,13 +9,13 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class SitesFragment extends Fragment{
+public class SitesFragment extends Fragment {
 
     @Override
-    public View onCreateView (LayoutInflater inflater, ViewGroup container,
-                              Bundle savedInstanceState){
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.word_list, container, false);
-
+//Create an arraylist
         ArrayList<Place> places = new ArrayList<Place>();
         places.add(new Place(R.string.turoe, R.string.turoeAdd, R.drawable.turoe, R.string.turoePh));
         places.add(new Place(R.string.rinville, R.string.rinvilleAdd, R.drawable.rinville, R.string.rinvillePh));
